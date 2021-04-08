@@ -42,15 +42,15 @@ h1 {
 }
 
 #chicken h2 {
-  background-color: #d35400;
+  background-color: #e9967a;
 }
 
 #beef h2 {
-  background-color: #9b59b6;
+  background-color: #b22222;
 }
 
 #sushi h2 {
-  background-color: #c0392b;
+  background-color: #48d1cc;
 }
 
 /* Simple Responsive Framework. */
